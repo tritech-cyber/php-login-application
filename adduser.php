@@ -91,16 +91,10 @@ if(isset($_POST['btn-signup']))
                 &nbsp;SIGN UP
                 </button>
             <br />
-            <label>have an account ! <a href="index2.php">Sign In</a></label>
+            <label>have an account ! <a href="index.php">Sign In</a></label>
         </form>
 <hr />
 <pre>
-This is an example from W3 schools.
-<form action="/action_page.php">
-  <input type="text" name="fname" placeholder="First name"><br>
-  <input type="text" name="lname" placeholder="Last name"><br>
-  <input type="submit" value="Submit">
-</form> 
 
 </pre>
 </body>
