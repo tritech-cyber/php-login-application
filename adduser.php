@@ -78,7 +78,7 @@ if(isset($_POST['btn-signup']))
 			else if(isset($_GET['joined']))
 			{
 				 ?>
-                  Successfully registered <a href='index2.php'>login</a>
+                  Successfully registered <a href='index.php'>login</a>
                  <?php
 			}
 			?>
