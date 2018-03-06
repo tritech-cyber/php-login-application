@@ -59,11 +59,11 @@ if(isset($_POST['btn-login']))
       </form>
 <hr />
 <pre>
-Add this to your directory as a .htaccess file .  If it does work re-start apache2
+Add this to your directory as a .htaccess file .  
 php_flag display_startup_errors on
 php_flag display_errors on
 php_flag html_errors on
 </pre>
-
+If it does not work re-start apache2 (systemctl restart apache2)
 </body>
 </html>
