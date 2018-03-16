@@ -2,9 +2,9 @@
 class Database
 {   
     private $hostname = "localhost";
-    private $dbname = "stream";
-    private $username = "zoey";
-    private $password = "redhat2001";
+    private $dbname = "****";
+    private $username = "****";
+    private $password = "****";
     public $conn;
      
     public function dbConnection()
